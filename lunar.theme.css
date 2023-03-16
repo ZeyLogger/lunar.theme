@@ -33,8 +33,8 @@
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-tertiary);
     --background-accent: #3281ea;
-    --background-modifier-hover: #303030;
-    --background-modifier-active: #252525;
+    --background-modifier-hover: #252525;
+    --background-modifier-active: #303030;
     --background-modifier-selected: #3281ea;
     --background-floating: var(--background-secondary);
     --brand-experiment: var(--background-accent, #3281ea);
@@ -63,9 +63,9 @@
 .theme-dark {
     --background-tertiary: #161616;
     --background-secondary: #202020;
-    --background-secondary-alt: #252525;
+    --background-secondary-alt: #202020;
     --background-primary: #303030;
-    --channel-icon: #f3f3f3;
+    --channel-icon: #dadada;
     --deprecated-card-bg: #16161663;
     --interactive-normal: #dadada;
     --text-normal: #f3f3f3;
