@@ -31,12 +31,11 @@
     --border-radius: 2rem;
     --avatar-radius: 50%;
     --background-mobile-primary: var(--background-primary);
-    --background-mobile-secondary: var(--background-secondary);
+    --background-mobile-secondary: var(--background-tertiary);
     --background-accent: #3281ea;
-    --background-message-hover: transparent;
-    --background-modifier-hover: var(--background-secondary);
-    --background-modifier-active: var(--background-secondary);
-    --background-modifier-selected: var(--background-accent);
+    --background-modifier-hover: #303030;
+    --background-modifier-active: #252525;
+    --background-modifier-selected: #3281ea;
     --background-floating: var(--background-secondary);
     --brand-experiment: var(--background-accent, #3281ea);
     --brand-experiment-560: var(--strato, #0284e8);
@@ -66,7 +65,7 @@
     --background-secondary: #202020;
     --background-secondary-alt: #252525;
     --background-primary: #303030;
-    --channel-icon: #dadada;
+    --channel-icon: #f3f3f3;
     --deprecated-card-bg: #16161663;
     --interactive-normal: #dadada;
     --text-normal: #f3f3f3;
