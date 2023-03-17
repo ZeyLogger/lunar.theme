@@ -1,4 +1,4 @@
-// GLOBAL
+/* GLOBAL */
 :root {
     --tropo: #3281ea;
     --strato: #0284e8;
@@ -9,7 +9,7 @@
     --sunset: #bf5039;
     --border-radius: 2rem;
     --avatar-radius: 50%;
-    // discord
+    /* discord */
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-secondary);
     --background-accent: #3281ea;
@@ -42,7 +42,7 @@
 }
 
 
-// DISCORD
+/* DISCORD */
 .theme-dark {
     --background-tertiary: #161616;
     --background-secondary: #202020;
@@ -55,7 +55,7 @@
     --activity-card-background: #10101b;
 }
 
-// soon™️
+/* light */
 .theme-light {
     --background-tertiary: #bbc1c8;
     --background-secondary: #c9cbce;
