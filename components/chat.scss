@@ -1,5 +1,4 @@
-// SIDEBAR
-// channels
+/* channels */
 .channel-1Shao0, .channel-k2TVLQ, .content-1gYQeQ, .item-3XjbnG {
     border-radius: var(--border-radius, 2rem) !important;
 }
@@ -19,7 +18,7 @@
     -webkit-user-drag: none;
 }
 
-// members
+/* members */
 .selected-1-Z6gm .layout-1qmrhw {
     border-radius: var(--border-radius, 2rem);
     background-color: var(--background-secondary-alt);
@@ -30,7 +29,7 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 }
 
 
-// TOP BAR
+/* TOP BAR */
 .searchBar-jGtisZ {
     border-radius: var(--border-radius, 2rem);
     
@@ -52,8 +51,7 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 }
 
 
-// CHAT WINDOW
-// boost page
+/* boost page */
 .container-2cd8Mz, .perksModal-CLcR1c {
     background-color: var(--background-primary) !important;
 }
@@ -70,14 +68,13 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
     background-color: var(--background-tertiary) !important;
 }
 
-// slash commands
+/* slash commands */
 .autocomplete-3NRXG8, .categoryHeader-OpJ1Ly {
     background-color: var(--background-primary) !important;
 }
 
 
-// EVENTS
-// event preview
+/* event preview */
 .tabBar-3lflCo > div {
     border-radius: 0 !important;
 
@@ -91,8 +88,7 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 }
 
 
-// CODE
-// diff
+/* diff */
 .hljs-addition, .hljs-keyword, .hljs-selector-tag {
     color: var(--nebula)
 }
@@ -102,13 +98,12 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 }
 
 
-// USER POPOUT
-// message
+/* message */
 .input-2z42oC {
     border-radius: var(--border-radius, 2rem);
 }
 
-// send button
+/* send button */
 .button-y6hemj:focus-within .activeButtonChild-2hgLAO, .button-y6hemj:focus .activeButtonChild-2hgLAO, .button-y6hemj:hover .activeButtonChild-2hgLAO {
     color: var(--strato, --interactive-active) !important;
 }
@@ -118,9 +113,9 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
 }
 
 
-// USER MODAL
+/* USER MODAL */
 .root-8LYsGj {
-    // tab buttons
+    /* tab buttons */
     .tabBarItem-30Te4- {
         &.selected-g-kMVV {
             border-bottom-color: var(--background-accent) !important;
