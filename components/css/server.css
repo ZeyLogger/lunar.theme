@@ -1,10 +1,8 @@
-.homeIcon-r0w4ny {
-  background: url("https://github.com/sonno-theme/discord/raw/main/assets/icon-rounded.png") center/cover no-repeat;
-  min-width: 60px;
-  min-height: 60px;
+[data-list-item-id="guildsnav___home"]>.childWrapper-1j_1ub {
+  background: url("https://raw.githubusercontent.com/ZeyLogger/lunar.theme/main/assets/icon-rounded.png") center/cover;
 }
-.homeIcon-r0w4ny path {
-  fill: transparent;
+.homeIcon-r0w4ny {
+  display: none;
 }
 
 .circleIconButton-1VxDrg {
