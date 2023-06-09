@@ -1,7 +1,7 @@
 /**
  * @name Lunar
  * @description A minimal black and blue theme inspired by space 🚀
- * @author Pukima
+ * @author Pukima (edited by ZeyLogger, AKA Loken)
  * @authorLink https://github.com/Pukimaa
  * @version 0.3.1
  * @updateUrl https://raw.githubusercontent.com/lunar-theme/discord/main/lunar.theme.css
@@ -11,7 +11,8 @@
  */
 
 /* IMPORTS */
-/* fuck everything, I will do it myself */
+/* none for now */
+
 /* VARIABLES */
 :root {
     --strato: #0284e8;
@@ -25,9 +26,6 @@
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-tertiary);
     --background-accent: #3281ea;
-    --background-modifier-hover: #252525;
-    --background-modifier-active: #303030;
-    --background-modifier-selected: #3281ea;
     --background-floating: var(--background-secondary);
     --brand-experiment: var(--background-accent, #3281ea);
     --brand-experiment-560: var(--strato, #0284e8);
@@ -43,7 +41,7 @@
     --modal-background: var(--background-primary);
     --modal-footer-background: var(--background-secondary);
     --scrollbar-auto-thumb: var(--background-accent);
-    --scrollbar-auto-track: #202020;
+    --scrollbar-auto-track: var(--background-tertiary);
     --scrollbar-thin-thumb: var(--background-accent);
     --text-brand: var(--interactive-normal);
     --toast-background: var(--background-secondary) !important;
@@ -62,6 +60,8 @@
     --interactive-normal: #dadada;
     --text-normal: #f3f3f3;
     --activity-card-background: #10101b;
+    --background-modifier-hover: #252525;
+    --background-modifier-active: #303030;
 }
   
 .theme-light {
