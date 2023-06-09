@@ -88,10 +88,6 @@ rect[mask="url(#svg-mask-status-online-mobile)"] {
   color: var(--strato, --interactive-active) !important;
 }
 
-.buttonContainer-6W2Ep3 > button:disabled {
-  display: none;
-}
-
 .root-8LYsGj .tabBarItem-30Te4-.selected-g-kMVV {
   border-bottom-color: var(--background-accent) !important;
 }
