@@ -20,10 +20,6 @@
   background-color: var(--background-secondary-alt);
 }
 
-rect[mask="url(#svg-mask-status-online-mobile)"] {
-  mask: none;
-}
-
 .searchBar-jGtisZ {
   border-radius: var(--border-radius, 2rem);
 }
