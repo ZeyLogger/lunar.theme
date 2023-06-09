@@ -1,8 +1,0 @@
-{
-    "name": "Lunar",
-    "description": "A minimal black and blue theme inspired by space 🚀",
-    "version": "0.3.1",
-    "author": "Pukima",
-    "license": "GPL-3.0",
-    "theme": "app.scss"
-}
