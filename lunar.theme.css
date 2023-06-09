@@ -11,15 +11,7 @@
  */
 
 /* IMPORTS */
-/* Components */
-@import url("https://ZeyLogger.github.io/lunar.theme/components/chat.css");
-@import url("https://ZeyLogger.github.io/lunar.theme/components/other.css");
-@import url("https://ZeyLogger.github.io/lunar.theme/components/server.css");
-@import url("https://ZeyLogger.github.io/lunar.theme/components/settings.css");
-/* Discolored */
-@import url("https://nyri4.github.io/Discolored/main.css");
-
-
+/* fuck everything, I will do it myself */
 /* VARIABLES */
 :root {
     --strato: #0284e8;
