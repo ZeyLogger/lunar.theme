@@ -11,7 +11,13 @@
  */
 
 /* IMPORTS */
-/* none for now */
+@import url("https://ZeyLogger.github.io/lunar.theme/components/css/chat.css");
+@import url("https://ZeyLogger.github.io/lunar.theme/components/css/other.css");
+@import url("https://ZeyLogger.github.io/lunar.theme/components/css/server.css");
+@import url("https://ZeyLogger.github.io/lunar.theme/components/css/settings.css");
+/* Discolored */
+@import url("https://nyri4.github.io/Discolored/main.css");
+
 
 /* VARIABLES */
 :root {
