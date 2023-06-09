@@ -8,21 +8,20 @@
     <a href="https://discord.gg/xvj3t9TwFT" target="_blank" rel="external">Join the Discord<a>
 </p>
 
-## Installation
-Head over to [the installation page](INSTALLATION.md) (Spoiler: *We support A LOT of mods*)
+## Installation 📎
+~~Head over to the installation page (Spoiler: *We support A LOT of mods*)~~ <br>
+```
+@import url('https://ZeyLogger.github.io/lunar.theme/lunar.theme.css');
+```
 
-## Gallery
+## Gallery 🖼️
 <table>
     <tr>
         <td align="center" style="padding=0;width=50%;">Desktop<img src="assets/preview.png" /></td>
     </tr>
-    <tr>
-        <td align="center" style="padding=0;width=50%;">Aliucord (Android)<img src="assets/aliucord.png" /></td>
-        <td align="center" style="padding=0;width=50%;">Enmity (iOS)<img src="assets/enmity.png" /></td>
-    </tr>
 </table>
 
-## Team
+## Team 👥
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/lunar-theme/discord/graphs/contributors).
 
