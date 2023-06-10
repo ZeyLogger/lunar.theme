@@ -32,8 +32,8 @@
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-tertiary);
     --background-accent: #3281ea;
-    --background-modifier-hover: #252525;
-    --background-modifier-active: #303030;
+    --background-modifier-hover: #3281ea;
+    --background-modifier-active: var(--background-primary);
     --background-modifier-selected: #3281ea;
     --background-floating: var(--background-secondary);
     --brand-experiment: var(--background-accent, #3281ea);
