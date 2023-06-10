@@ -84,8 +84,8 @@
     background-color: var(--background-primary);
 }
 
-.sendIcon-1HcEzu {
-    color: var(--background-accent);
+.theme-light .sendIcon-1HcEzu {
+    color: var(--channel-icon);
 }
 
 .button-y6hemj:focus-within .activeButtonChild-2hgLAO, .button-y6hemj:focus .activeButtonChild-2hgLAO, .button-y6hemj:hover .activeButtonChild-2hgLAO {
