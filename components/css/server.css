@@ -1,6 +1,15 @@
-[data-list-item-id="guildsnav___home"]>.childWrapper-1j_1ub {
-  background: url("https://raw.githubusercontent.com/ZeyLogger/lunar.theme/main/assets/icon.png") center/cover;
+/* code taken from https://github.com/PlusInsta/discord-plus/blob/1f5d8a942f83a6120d7648374aa4bff8b903d688/src/DiscordPlus-source.theme.css#L1120
+sorry I was too lazy to figure out how to do it myself, I tried but for some reason didn't worked */
+
+.theme-dark .tutorialContainer-1pL9QS .childWrapper-1j_1ub,
+.theme-light .theme-dark .tutorialContainer-1pL9QS .childWrapper-1j_1ub,
+.theme-light .tutorialContainer-1pL9QS .childWrapper-1j_1ub {
+	background: url('https://ZeyLogger.github.io/lunar.theme/assets/icon-dark.png') center/cover;
 }
+.theme-light .tutorialContainer-1pL9QS .childWrapper-1j_1ub {
+  background-image: url('https://ZeyLogger.github.io/lunar.theme/assets/icon-light.png');
+}
+
 .homeIcon-r0w4ny {
   display: none;
 }
