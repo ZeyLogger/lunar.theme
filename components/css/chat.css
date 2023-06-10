@@ -84,6 +84,10 @@
     background-color: var(--background-primary);
 }
 
+.sendIcon-1HcEzu {
+    color: var(--background-accent);
+}
+
 .button-y6hemj:focus-within .activeButtonChild-2hgLAO, .button-y6hemj:focus .activeButtonChild-2hgLAO, .button-y6hemj:hover .activeButtonChild-2hgLAO {
   color: var(--strato, --interactive-active) !important;
 }
