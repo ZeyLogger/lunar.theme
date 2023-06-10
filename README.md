@@ -8,13 +8,13 @@
     <a href="https://discord.gg/xvj3t9TwFT" target="_blank" rel="external">Join the Discord<a>
 </p>
 
-## Installation 📎
+## Installation 📋
 ~~Head over to the installation page (Spoiler: *We support A LOT of mods*)~~ <br>
 ```
 @import url('https://ZeyLogger.github.io/lunar.theme/lunar.theme.css');
 ```
 
-## Gallery 🖼️
+## Gallery 🖥️
 <table>
     <tr>
         <td align="center" style="padding=0;width=50%;">Desktop<img src="assets/preview.png" /></td>
