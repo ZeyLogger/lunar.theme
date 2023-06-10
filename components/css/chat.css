@@ -96,24 +96,22 @@
   background-color: var(--background-secondary) !important;
 }
 
-.scroller-1fIBSS {
+.pageBody-23bo4p {
+    background-color: var(--background-primary);
+}
+.channelRow-4X_3fi {
     background-color: var(--background-secondary);
 }
-
-.prompt-1sE27N {
+.scroller-1fIBSS {
     background-color: var(--background-primary);
 }
 
-.container-2IKOsH {
-    background-color: var(--background-secondary) !important;
-}
-
-.header-3xB4vB {
-    background-color: var(--background-secondary) !important;
+.prompt-1sE27N {
+    background-color: var(--background-secondary);
 }
 
 .background-12kWdX {
-    background-color: var(--background-secondary)
+    background-color: var(--background-secondary);
 }
 
 /*# sourceMappingURL=chat.css.map */
