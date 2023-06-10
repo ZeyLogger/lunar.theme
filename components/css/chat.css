@@ -111,6 +111,10 @@
 }
 
 .background-12kWdX {
+    background-color: var(--background-primary);
+}
+
+.sidebarCardWrapper-34oCuK {
     background-color: var(--background-secondary);
 }
 
