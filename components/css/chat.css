@@ -2,6 +2,10 @@
   border-radius: var(--border-radius, 2rem) !important;
 }
 
+.webkit-QgSAqd {
+    border-radius: 2rem;
+}
+
 .interactiveSelected-29CP8y:hover, .modeSelected-3DmyhH:hover > .content-1gYQeQ, .selected-g-kMVV:hover, .linkButton-2NshQj.interactive-1vLZ_I:focus-within {
   color: var(--interactive-active);
   background-color: var(--strato, #0284e8) !important;
@@ -86,6 +90,10 @@
 
 .theme-light .sendIcon-1HcEzu {
     color: var(--channel-icon);
+}
+
+.actionIcon-2sw4Sl {
+    color: var(--background-primary)
 }
 
 .button-y6hemj:focus-within .activeButtonChild-2hgLAO, .button-y6hemj:focus .activeButtonChild-2hgLAO, .button-y6hemj:hover .activeButtonChild-2hgLAO {
