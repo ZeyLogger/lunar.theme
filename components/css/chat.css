@@ -1,3 +1,15 @@
+.webkit-QgSAqd {
+    border-radius: 2rem;
+}
+/* Code by Aoi on Vencord server, I was too stupid to figure how to change the position */
+main[class^=chatContent] > form > * > [class^=attachedBars] {
+  min-height: unset !important;
+  position: relative;
+  padding-bottom: 25px;
+  margin: 0 0 -25px 0 !important;
+  z-index: 0;
+}
+
 .channel-1Shao0, .channel-k2TVLQ, .content-1gYQeQ, .item-3XjbnG {
   border-radius: var(--border-radius, 2rem) !important;
 }
