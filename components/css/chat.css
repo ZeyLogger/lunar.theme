@@ -2,10 +2,6 @@
   border-radius: var(--border-radius, 2rem) !important;
 }
 
-.webkit-QgSAqd {
-    border-radius: 2rem;
-}
-
 .interactiveSelected-29CP8y:hover, .modeSelected-3DmyhH:hover > .content-1gYQeQ, .selected-g-kMVV:hover, .linkButton-2NshQj.interactive-1vLZ_I:focus-within {
   color: var(--interactive-active);
   background-color: var(--strato, #0284e8) !important;
