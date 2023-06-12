@@ -1,0 +1,2 @@
+## addons, in case someone cares <br>
+I made a rounded bar snippet but I had too many problems, and I decided to remove it from the original theme, if someone still want it, it's here, just use the import
