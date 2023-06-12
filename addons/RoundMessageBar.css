@@ -1,0 +1,64 @@
+/* rounded message bar by me */
+.webkit-QgSAqd {
+    border-radius: 2rem;
+    background-color: var(--background-secondary);
+}
+
+/* reply bar, thanks to Aoi on the vencord server */
+main[class^=chatContent] > form > * > [class^=attachedBars] {
+  min-height: unset !important;
+  position: relative;
+  padding-bottom: 25px;
+  margin: 0 0 -25px 0 !important;
+  z-index: 0;
+}
+
+/* Better Jump To Present Button, original from https://github.com/U8K50/randomDiscordThemesSnippets */
+
+[class*="jumpToPresentBar"] {
+    display: contents;
+}
+
+[class*="jumpToPresentBar"] > button:first-child {
+    display: none;
+}
+
+[class*="jumpToPresentBar"] > button:last-child {
+    position: absolute;
+    z-index: 1;
+    bottom: 24px;
+    right: 22px;
+    padding: 8px !important;
+    height: auto;
+    background-color: var(--background-accent);
+    box-shadow: var(--elevation-high);
+    border-radius: 100px;
+    display: flex;
+    font-size: 0px;
+    color: transparent;
+    transition: font-size .2s .1s, color .2s, padding .4s .1s;
+}
+
+[class*="jumpToPresentBar"] > button svg {
+    order: -1;
+    margin: 0px;
+    height: 24px;
+    width: 24px;
+    top: auto;
+    margin-right: 0px;
+    margin-left: 0px;
+    color: #FFFFFF;
+    transition: margin .6s;
+}
+
+[class*="jumpToPresentBar"]:hover > button {
+    padding: 8px 18px !important;
+    font-size: 14px;
+    color: #FFFFFF;
+    transition: font-size .2s, color .2s .1s, padding .4s;
+}
+
+[class*="jumpToPresentBar"]:hover > button svg {
+    margin-right: 2px;
+    margin-left: -6px;
+}
