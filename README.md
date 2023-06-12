@@ -10,7 +10,7 @@
 
 ## Installation 📋
 ~~Head over to the installation page (Spoiler: *We support A LOT of mods*)~~ <br>
-```
+```css
 @import url('https://ZeyLogger.github.io/lunar.theme/lunar.theme.css');
 ```
 
