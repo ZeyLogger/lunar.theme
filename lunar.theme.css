@@ -62,7 +62,7 @@
 .theme-dark {
     --background-tertiary: #161616;
     --background-secondary: #202020;
-    --background-secondary-alt: #202020;
+    --background-secondary-alt: #262626;
     --background-primary: #303030;
     --channel-icon: #dadada;
     --deprecated-card-bg: #16161663;
@@ -74,8 +74,8 @@
 .theme-light {
     --background-tertiary: #bbc1c8;
     --background-secondary: #c9cbce;
-    --background-secondary-alt: #cecece;
+    --background-secondary-alt: #b9bcc0;
     --background-primary: #dfdfdf;
-    --channel-icon: #7e848e;
+    --channel-icon: #5c5c5c;
     --interactive-normal: #7e848e;
 }
