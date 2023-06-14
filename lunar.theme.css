@@ -1,7 +1,7 @@
 /**
  * @name Lunar
  * @description A minimal black and blue theme inspired by space 🚀
- * @author Pukima (edited by ZeyLogger, AKA Loken)
+ * @author Pukima (edited by ZeyLogger)
  * @authorLink https://github.com/Pukimaa
  * @version 0.3.1
  * @updateUrl https://raw.githubusercontent.com/lunar-theme/discord/main/lunar.theme.css
@@ -21,20 +21,23 @@
 
 /* VARIABLES */
 :root {
+    --tropo: #3281ea;
     --strato: #0284e8;
     --meso: #02a3e8;
+    --thermo: #02bbe8;
     --nebula: #05844A;
     --nebula-dark: #006839;
     --magma: #B10C0C;
     --sunset: #bf5039;
+    
     --border-radius: 2rem;
     --avatar-radius: 50%;
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-tertiary);
-    --background-accent: #3281ea;
-    --background-modifier-hover: #3281ea;
+    --background-accent: var(--tropo);
+    --background-modifier-hover: var(--tropo);
     --background-modifier-active: var(--strato);
-    --background-modifier-selected: #3281ea;
+    --background-modifier-selected: var(--tropo);
     --background-floating: var(--background-secondary);
     --brand-experiment: var(--background-accent, #3281ea);
     --brand-experiment-560: var(--strato, #0284e8);
