@@ -1,14 +1,26 @@
-.wordmark-2u86JB {
-  font-family: var(--font-headline);
-  font-weight: 600;
-  font-size: 0.65rem;
-  margin-left: 2.3rem;
+/* theme name in title bar, changes with light mode */
+.wordmarkWindows-2dq6rw svg {
+    display: none;
 }
-.wordmark-2u86JB:before {
-  position: absolute;
-  content: "Lunar";
-  margin-top: 0.2rem;
-  margin-left: -2.3rem;
+
+.theme-dark .wordmarkWindows-2dq6rw::after {
+    content: "Lunar Discord";
+    display: block;
+    margin-top: -2px;
+    line-height: 16px;
+    font-family: var(--font-headline);
+    font-size: 0.65rem;
+    font-weight: 600;
+}
+
+.theme-light .wordmarkWindows-2dq6rw::after {
+    content: "Solar Discord";
+    display: block;
+    margin-top: -2px;
+    line-height: 16px;
+    font-family: var(--font-headline);
+    font-size: 0.65rem;
+    font-weight: 600;
 }
 
 .button-f2h6uQ {
