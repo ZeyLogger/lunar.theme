@@ -6,6 +6,14 @@
     border-radius: 2rem;
 }
 
+.textarea-_59yqs {
+    background-color: transparent;
+}
+
+.inputWrapper-2K8ds1 {
+    border-radius: 2rem;
+}
+
 .interactiveSelected-29CP8y:hover, .modeSelected-3DmyhH:hover > .content-1gYQeQ, .selected-g-kMVV:hover, .linkButton-2NshQj.interactive-1vLZ_I:focus-within {
   color: var(--interactive-active);
   background-color: var(--strato, #0284e8) !important;
@@ -196,6 +204,10 @@
 }
 .inputDefault-Ciwd-S {
     background-color: var(--background-tertiary);
+}
+
+.lookFilled-1H2Jvj.colorRed-2VFhM4 {
+    background-color: var(--magma);
 }
 
 .emojiItem-277VFM.emojiItemSelected-2Lg50V {
