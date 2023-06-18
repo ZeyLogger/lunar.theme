@@ -196,47 +196,5 @@
 .input-3AAlUz {
     background-color: var(--background-tertiary);
 }
-.lookFilled-GPyucw {
-    background-color: var(--background-tertiary) !important;
-}
-.bioTextArea-dDGOeC {
-    background-color: var(--background-tertiary) !important;
-}
-.inputDefault-Ciwd-S {
-    background-color: var(--background-tertiary);
-}
-
-.lookFilled-1H2Jvj.colorRed-2VFhM4 {
-    background-color: var(--magma);
-}
-
-.emojiItem-277VFM.emojiItemSelected-2Lg50V {
-    background-color: var(--background-tertiary);
-}
-.navButtonActive-1EqC5l {
-    background-color: var(--background-tertiary);
-}
-
-.side-1lrxIh .selected-1sf9UK {
-    border-radius: 2rem;
-}
-.side-1lrxIh .themed-qqoYp3 {
-    border-radius: 2rem;
-}
-
-.theme-light .userPopoutOverlayBackground-3A0Pcz {
-    background-color: var(--background-primary)
-}
-.theme-light .body-1Ukv50 {
-    background-color: var(--background-primary)
-}
-
-.theme-light .profileBadges-2pItdR {
-    background-color: var(--background-primary);
-}
-
-.theme-light .badgeList-2aoHPw {
-    background-color: var(--background-primary);
-}
 
 /*# sourceMappingURL=chat.css.map */
