@@ -52,9 +52,9 @@
     --deprecated-quickswitcher-input-background: var(--background-tertiary);
     --modal-background: var(--background-primary);
     --modal-footer-background: var(--background-secondary);
-    --scrollbar-auto-thumb: var(--background-accent);
+    --scrollbar-auto-thumb: var(--tropo, #3281ea);
     --scrollbar-auto-track: var(--background-tertiary);
-    --scrollbar-thin-thumb: var(--background-accent);
+    --scrollbar-thin-thumb: var(--tropo, #3281ea);
     --text-brand: var(--interactive-normal);
     --toast-background: var(--background-secondary) !important;
     --toast-header: var(--background-tertiary) !important;
@@ -78,6 +78,7 @@
     --background-tertiary: #bbc1c8;
     --background-secondary: #c9cbce;
     --background-secondary-alt: #b9bcc0;
+    --background-floating: #d1d1d1;
     --background-primary: #dfdfdf;
     --channel-icon: #5c5c5c;
     --interactive-normal: #7e848e;
