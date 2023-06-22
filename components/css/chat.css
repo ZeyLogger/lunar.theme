@@ -2,10 +2,6 @@
   border-radius: var(--border-radius, 2rem) !important;
 }
 
-.colorBrand-26tvUE {
-    color: var(--tropo);
-}
-
 .markup-eYLPri a {
     color: var(--tropo);
 }
@@ -243,6 +239,10 @@
 
 .directoryContainer-z-0pgp {
     background-color: var(--background-primary) !important;
+}
+
+.scroller-3j5xK2 {
+    background-color: var(--background-primary);
 }
 
 .input-3O04eu {
