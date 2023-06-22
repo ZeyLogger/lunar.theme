@@ -2,6 +2,10 @@
   border-radius: var(--border-radius, 2rem) !important;
 }
 
+.colorBrand-26tvUE {
+    color: var(--tropo);
+}
+
 .markup-eYLPri a {
     color: var(--tropo);
 }
