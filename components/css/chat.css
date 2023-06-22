@@ -2,6 +2,10 @@
   border-radius: var(--border-radius, 2rem) !important;
 }
 
+.markup-eYLPri a {
+    color: var(--tropo);
+}
+
 .memberInner--L4X2b {
     border-radius: 2rem;
 }
@@ -215,6 +219,54 @@
 
 .lookFilled-GPyucw.select-Zz0IcO {
     background-color: var(--background-tertiary);
+}
+
+.auto-2TJ1RH {
+    background-color: var(--background-primary);
+}
+
+.container-1Lk8p7 > div > div {
+    background-color: var(--background-secondary);
+}
+
+.footerSeparator-3U8YsT {
+    background-color: var(--background-secondary);
+}
+
+.header-2pgFQm {
+    background-color: var(--background-secondary) !important;
+}
+
+.container-2kTWmC {
+    background-color: var(--background-secondary);
+}
+
+.directoryContainer-z-0pgp {
+    background-color: var(--background-primary) !important;
+}
+
+.input-3O04eu {
+    background-color: var(--background-secondary);
+}
+
+.input-3AAlUz {
+    background-color: var(--background-secondary-alt);
+}
+
+.addFriendInputWrapper-kkoSV9 {
+    background-color: var(--background-secondary);
+}
+
+.title-1v5ZfI {
+    background-color: var(--background-primary);
+}
+
+.textarea-_59yqs {
+    background-color: transparent;
+}
+
+.messageInput-1enlaJ {
+    background-color: transparent;
 }
 
 /*# sourceMappingURL=chat.css.map */
