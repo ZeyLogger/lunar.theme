@@ -82,7 +82,7 @@
   border-radius: 0 !important;
 }
 .tabBar-3lflCo > div.selected-g-kMVV {
-  border-bottom-color: var(--background-accent) !important;
+  border-bottom-color: var(--tropo) !important;
 }
 .tabBar-3lflCo > div.selected-g-kMVV:hover {
   background-color: transparent !important;
@@ -117,7 +117,7 @@
 }
 
 .root-8LYsGj .tabBarItem-30Te4-.selected-g-kMVV {
-  border-bottom-color: var(--background-accent) !important;
+  border-bottom-color: var(--background-tropo) !important;
 }
 
 .container-3wLKDe {
