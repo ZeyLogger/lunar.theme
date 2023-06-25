@@ -38,7 +38,6 @@
     --background-modifier-hover: var(--tropo);
     --background-modifier-active: var(--strato);
     --background-modifier-selected: var(--tropo);
-    --background-floating: var(--background-secondary);
     --brand-experiment: var(--background-accent, #3281ea);
     --brand-experiment-560: var(--strato, #0284e8);
     --brand-experiment-600: var(--meso, #02a3e8);
@@ -65,6 +64,7 @@
   
 .theme-dark {
     --background-tertiary: #161616;
+    --background-floating: #181818;
     --background-secondary: #202020;
     --background-secondary-alt: #262626;
     --background-primary: #303030;
@@ -77,9 +77,9 @@
   
 .theme-light {
     --background-tertiary: #bbc1c8;
+    --background-floating: #d1d1d1;
     --background-secondary: #c9cbce;
     --background-secondary-alt: #b9bcc0;
-    --background-floating: #d1d1d1;
     --background-primary: #dfdfdf;
     --channel-icon: #5c5c5c;
     --interactive-normal: #7e848e;
