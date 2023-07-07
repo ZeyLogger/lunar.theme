@@ -9,7 +9,7 @@
 </p>
 
 ## Installation 📋
-~~Head over to the installation page (Spoiler: *We support A LOT of mods*)~~ <br>
+~~Head over to the installation page (Spoiler: *We support A LOT of mods*)~~ I am sorry for my terrible code <br>
 ```css
 @import url('https://ZeyLogger.github.io/lunar.theme/lunar.theme.css');
 ```
