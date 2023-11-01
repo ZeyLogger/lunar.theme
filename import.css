@@ -7,3 +7,28 @@
 [class*="forumOrHome__"], [class*="homeContainer_"] {
     background-color: var(--background-secondary-alt) !important;
 }
+
+/* theme name in title bar */
+.wordmarkWindows__05c46 svg {
+    display: none;
+}
+
+.theme-dark .wordmarkWindows__05c46::after {
+    content: "Lunar Discord";
+    display: block;
+    margin-top: -2px;
+    line-height: 16px;
+    font-family: var(--font-headline);
+    font-size: 0.65rem;
+    font-weight: 600;
+}
+
+.theme-light .wordmarkWindows__05c46::after {
+    content: "Solar Discord";
+    display: block;
+    margin-top: -2px;
+    line-height: 16px;
+    font-family: var(--font-headline);
+    font-size: 0.65rem;
+    font-weight: 600;
+}
