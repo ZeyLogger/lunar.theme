@@ -1,12 +1,12 @@
 /* SOURCE */
 
-/* unnecesary shadow on the toolbar */
+/* unnecesary shadow on the toolbar and chat */
 [class*=form]:before, [class*=children]:after {
   display: none !important;
 }
 
 /* toolbar I think */
-[class*="themed_"] {
+[class^="themed_"], .container__11d72 {
     background-color: var(--background-secondary) !important;
 }
 
