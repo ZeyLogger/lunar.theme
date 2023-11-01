@@ -5,7 +5,7 @@
   display: none !important;
 }
 
-/* toolbar I think */
+/* toolbar */
 [class^="themed_"], .container__11d72 {
     background-color: var(--background-secondary) !important;
 }
@@ -63,9 +63,15 @@
   background-color: var(--nebula);
 }
 
-/* channel and roles tab (INCOMPLETED) */
+/* channel and roles tab */
 [class*="pageBody_"] {
     background-color: var(--background-secondary-alt);
+}
+[class^="chat__"], .scrollerContainer_bf5dbd {
+    background-color: var(--background-secondary-alt) !important;
+}
+[class^="tabBar_"], .container__10dc7 {
+    background-color: var(--background-secondary-alt) !important;
 }
 
 /* invite people */
