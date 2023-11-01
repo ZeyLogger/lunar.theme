@@ -1,4 +1,4 @@
-/**
+/*
  * @name Lunar
  * @description A minimal black and blue theme inspired by space 🚀
  * @author Pukima (edited by ZeyLogger)
@@ -10,16 +10,12 @@
  * @invite xvj3t9TwFT
  */
 
-/* IMPORTS */
-/* @import url("https://ZeyLogger.github.io/lunar.theme/components/css/chat.css");
-@import url("https://ZeyLogger.github.io/lunar.theme/components/css/other.css");
-@import url("https://ZeyLogger.github.io/lunar.theme/components/css/server.css");
-@import url("https://ZeyLogger.github.io/lunar.theme/components/css/settings.css"); */
+/* Imports */
+@import url(https://ZeyLogger.github.io/lunar.theme/import.css);
 /* Discolored */
-@import url("https://nyri4.github.io/Discolored/main.css");
+@import url(https://nyri4.github.io/Discolored/main.css);
 
-
-/* VARIABLES */
+/* Variables */
 :root {
     --tropo: #3281ea;
     --strato: #0284e8;
@@ -29,9 +25,7 @@
     --nebula-dark: #006839;
     --magma: #B10C0C;
     --sunset: #bf5039;
-    
-    --border-radius: 2rem;
-    --avatar-radius: 50%;
+
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-tertiary);
     --background-accent: var(--tropo);
@@ -61,7 +55,7 @@
     --toast-contents: var(--background-primary) !important;
     --elevation-low: none;
 }
-  
+
 .theme-dark {
     --background-tertiary: #161616;
     --background-floating: #181818;
@@ -74,7 +68,7 @@
     --text-normal: #f3f3f3;
     --activity-card-background: #10101b;
 }
-  
+
 .theme-light {
     --background-tertiary: #bbc1c8;
     --background-floating: #d1d1d1;
