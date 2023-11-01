@@ -62,3 +62,18 @@
 [class^="circleIconButton_"].selected__5250e {
   background-color: var(--nebula);
 }
+
+/* channel and roles tab (INCOMPLETED) */
+[class*="pageBody_"] {
+    background-color: var(--background-secondary-alt);
+}
+
+/* invite people */
+[class*="colorBrand__"] {
+    color: var(--tropo);
+}
+
+/* app directory background */
+[class*="directoryContainer_"] {
+    background-color: var(--background-primary) !important;
+}
