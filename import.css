@@ -22,7 +22,6 @@
     font-size: 0.65rem;
     font-weight: 600;
 }
-
 .theme-light .wordmarkWindows__05c46::after {
     content: "Solar Discord";
     display: block;
@@ -37,7 +36,14 @@
 .theme-dark [data-list-item-id="guildsnav___home"] {
     content: url("https://ZeyLogger.github.io/lunar.theme/assets/icon-dark.png");
 }
-
 .theme-light [data-list-item-id="guildsnav___home"] {
     content: url("https://ZeyLogger.github.io/lunar.theme/assets/icon-light.png");
+}
+
+/* explore / add server button */
+[class^="circleIconButton_"] {
+  color: var(--nebula);
+}
+[class^="circleIconButton_"].selected__5250e {
+  background-color: var(--nebula);
 }
