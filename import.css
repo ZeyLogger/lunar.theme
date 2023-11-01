@@ -32,3 +32,12 @@
     font-size: 0.65rem;
     font-weight: 600;
 }
+
+/* home icon (sorry if you have nitro in-app icons) */
+.theme-dark [data-list-item-id="guildsnav___home"] {
+    content: url("https://ZeyLogger.github.io/lunar.theme/assets/icon-dark.png");
+}
+
+.theme-light [data-list-item-id="guildsnav___home"] {
+    content: url("https://ZeyLogger.github.io/lunar.theme/assets/icon-light.png");
+}
