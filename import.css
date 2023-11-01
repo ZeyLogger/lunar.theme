@@ -1,11 +1,18 @@
 /* SOURCE */
 
-/* Forum / Home */
-[class*="list__"] {
-    background-color: var(--background-secondary-alt);
+/* unnecesary shadow on the toolbar */
+[class*=form]:before, [class*=children]:after {
+  display: none !important;
 }
-[class*="forumOrHome__"], [class*="homeContainer_"] {
-    background-color: var(--background-secondary-alt) !important;
+
+/* toolbar I think */
+[class*="themed_"] {
+    background-color: var(--background-secondary) !important;
+}
+
+/* rounded search bar */
+[class*="searchBar_"] {
+    border-radius: 2rem;
 }
 
 /* theme name in title bar */
@@ -38,6 +45,14 @@
 }
 .theme-light [data-list-item-id="guildsnav___home"] {
     content: url("https://ZeyLogger.github.io/lunar.theme/assets/icon-light.png");
+}
+
+/* Forum / Home */
+[class*="list__"] {
+    background-color: var(--background-secondary-alt);
+}
+[class*="homeContainer_"] {
+    background-color: var(--background-secondary-alt) !important;
 }
 
 /* explore / add server button */
