@@ -63,14 +63,17 @@
   background-color: var(--nebula);
 }
 
-/* channel and roles tab */
+/* channel and roles tab / members */
 [class*="pageBody_"] {
     background-color: var(--background-secondary-alt);
 }
-[class^="chat__"], .scrollerContainer_bf5dbd {
+[class^="tabBar_"], .container__10dc7, .content__1a4fe {
     background-color: var(--background-secondary-alt) !important;
 }
 [class^="tabBar_"], .container__10dc7 {
+    background-color: var(--background-secondary-alt) !important;
+}
+[class^="chat__"], .scrollerContainer_bf5dbd {
     background-color: var(--background-secondary-alt) !important;
 }
 
