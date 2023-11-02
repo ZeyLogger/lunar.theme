@@ -63,9 +63,9 @@
     --background-secondary-alt: #262626;
     --background-primary: #303030;
     --channel-icon: #dadada;
-    --deprecated-card-bg: #16161663;
-    --interactive-normal: #dadada;
+    --interactive-normal: var(--channel-icon);
     --text-normal: #f3f3f3;
+    --deprecated-card-bg: #16161663;
     --activity-card-background: #10101b;
 }
 
@@ -75,6 +75,11 @@
     --background-secondary: #c9cbce;
     --background-secondary-alt: #b9bcc0;
     --background-primary: #dfdfdf;
-    --channel-icon: #5c5c5c;
-    --interactive-normal: #7e848e;
+    --channel-icon: #404040;
+    --interactive-normal: var(--channel-icon);
+    --text-normal: #161616;
+}
+
+::selection {
+    background-color: var(--tropo);
 }
