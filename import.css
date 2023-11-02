@@ -10,6 +10,11 @@
     background-color: var(--background-primary) !important;
 }
 
+/* Quick Switcher fix */
+[class*="quickswitcher_"] .scroller__52ae7 {
+    background-color: var(--background-secondary);
+}
+
 /* rounded search bar */
 [class*="searchBar_"] {
     border-radius: 2rem;
