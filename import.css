@@ -63,11 +63,11 @@
   background-color: var(--nebula);
 }
 
-/* channel and roles tab / members (still a bit buggy) */
+/* channel and roles tab / members (still a bit buggy I think) */
 [class*="pageBody_"] {
     background-color: var(--background-secondary-alt);
 }
-.container__10dc7, .content__1a4fe {
+.container__10dc7, .content__1a4fe { /* I am so tired of trying to use class selectors for this */
     background-color: var(--background-secondary-alt) !important;
 }
 .container__10dc7 {
@@ -76,15 +76,22 @@
 [class^="chat__"], .scrollerContainer_bf5dbd {
     background-color: var(--background-secondary-alt) !important;
 }
+/* in vc fix */
+[class*="listDefault__"] {
+    background-color: var(--background-secondary);
+}
 
 /* invite people */
 [class*="colorBrand__"] {
     color: var(--tropo);
 }
 
-/* app directory background */
+/* app directory / explore servers background */
 [class*="directoryContainer_"] {
     background-color: var(--background-primary) !important;
+}
+[class*="auto_"] {
+    background-color: var(--background-primary);
 }
 
 /* slash command / emote */
@@ -98,4 +105,9 @@
 /* channel roundness / memberlist */
 [class*="link__"], [class*="linkButton_"], [class*="interactive__"], [class*="memberInner_"] {
     border-radius: var(--button-roundness) !important;
+}
+
+/* group dm / more active threads */
+[class*="popout__"] {
+    background-color: var(--background-secondary);
 }
