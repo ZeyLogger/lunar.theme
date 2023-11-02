@@ -87,7 +87,10 @@
     background-color: var(--background-primary) !important;
 }
 
-/* slash command / emote (INCOMPLETED) */
-[class^="categorySection__"], categoryHeader_f97a5f {
+/* slash command / emote */
+[class*="categoryHeader_"], .list__0870a {
+    background-color: var(--background-secondary-alt);
+}
+[class*="autocompleteRow_"], .scroller_cc9b9a {
     background-color: var(--background-secondary-alt);
 }
