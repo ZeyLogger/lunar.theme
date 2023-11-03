@@ -30,13 +30,14 @@
 
     --background-mobile-primary: var(--background-primary);
     --background-mobile-secondary: var(--background-tertiary);
-    --background-accent: var(--tropo);
-    --background-modifier-hover: #3483eacc;
-    --background-modifier-active: #3483eae6;
-    --background-modifier-selected: var(--tropo);
-    --brand-experiment: var(--background-accent, #3281ea);
-    --brand-experiment-560: var(--strato, #0284e8);
-    --brand-experiment-600: var(--strato, #0284e8);
+    --background-accent: #8080804d;
+    --background-modifier-hover: #80808033;
+    --background-modifier-active: #80808066;
+    --background-modifier-selected: #80808080;
+
+    --brand-experiment: var(--tropo, #3281ea);
+    --brand-experiment-560: var(--tropo, #3281ea);
+    --brand-experiment-600: var(--tropo, #3281ea);
 
     --button-danger-background: var(--magma, #B10C0C);
     --button-danger-background-hover: var(--magma, #B10C0C);
