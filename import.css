@@ -72,7 +72,7 @@
 [class*="pageBody_"] {
     background-color: var(--background-secondary-alt);
 }
-.container__10dc7, .content__1a4fe { /* I am so tired of trying to use class selectors for this */
+[class="scroller__"], .container_df3aa0 {
     background-color: var(--background-secondary-alt) !important;
 }
 .container__10dc7 {
@@ -95,8 +95,8 @@
 [class*="directoryContainer_"] {
     background-color: var(--background-primary) !important;
 }
-[class*="auto_"] {
-    background-color: var(--background-primary);
+[class^="pageWrapper_"] {
+    background-color: var(--background-primary) !important;
 }
 
 /* slash command / emote */
