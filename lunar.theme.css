@@ -63,6 +63,7 @@
     --scrollbar-auto-thumb: var(--tropo, #3281ea);
     --scrollbar-auto-track: var(--background-tertiary);
     --scrollbar-thin-thumb: var(--tropo, #3281ea);
+    --mention-background: #3483ea80;
     --text-link: var(--tropo, #3281ea);
     --text-brand: var(--interactive-normal);
     --toast-background: var(--background-secondary) !important;
