@@ -15,6 +15,11 @@
     background-color: var(--background-secondary);
 }
 
+/* send button */
+[class*="activeButtonChild__"] {
+    color: var(--tropo) !important;
+}
+
 /* rounded search bar */
 [class*="searchBar_"] {
     border-radius: 2rem;
