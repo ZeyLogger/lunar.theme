@@ -64,6 +64,9 @@
 [class*="homeContainer_"] {
     background-color: var(--background-secondary-alt) !important;
 }
+[class*="grid__"] {
+    background-color: var(--background-secondary-alt);
+}
 
 /* explore / add server button */
 [class^="circleIconButton_"] {
